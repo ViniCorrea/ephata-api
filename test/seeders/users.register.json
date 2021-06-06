@@ -1,0 +1,15 @@
+[
+  {
+    "type": "json",
+    "dto": {
+      "name": "Priscila Uchoa Sobral",
+      "email": "priscila.uchoa@gmail.com",
+      "password": "VG3%G3SD4D$@#",
+      "phoneNumber": "(21) 99000-0000",
+      "gender": "feminino",
+      "civilStatus": "solteira",
+      "birthDate": "17/01/1998"
+    },
+    "status": 200
+  }
+]
