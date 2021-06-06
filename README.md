@@ -1,3 +1,7 @@
+| Build |
+|-------|
+| ![CI](https://github.com/ViniCorrea/ephata-api/workflows/CI/badge.svg?branch=main&event=push) |
+
 ## Installation
 
 ```bash
