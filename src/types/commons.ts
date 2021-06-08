@@ -4,7 +4,12 @@ export enum CivilStatus {
   Divorced,
   Widowed,
 }
-
+export enum Environment {
+  Development = 'development',
+  Testing = 'testing',
+  Staging = 'staging',
+  Production = 'production',
+}
 export enum Gender {
   Female,
   Male,

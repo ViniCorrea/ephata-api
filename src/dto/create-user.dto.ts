@@ -1,7 +1,7 @@
 import { IsEmail, IsNotEmpty, IsOptional, IsString } from 'class-validator';
 
 export class CreateUserDto {
-  @IsString({ message: 'name é obrigatorio' })
+  @IsString()
   name: string;
 
   @IsEmail()

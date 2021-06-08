@@ -35,3 +35,6 @@ lerna-debug.log*
 
 # Postgres
 pgdata
+
+# Enviroments
+.env

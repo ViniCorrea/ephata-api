@@ -1,7 +1,10 @@
 [
   {
     "type": "json",
-    "dto": {
+    "query": {
+
+    },
+    "body": {
       "name": "Priscila Uchoa Sobral",
       "email": "priscila.uchoa@gmail.com",
       "password": "VG3%G3SD4D$@#",
